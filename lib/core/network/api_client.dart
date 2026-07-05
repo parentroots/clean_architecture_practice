@@ -10,6 +10,7 @@ class ApiClient {
       connectTimeout: const Duration(seconds: 30),
       receiveTimeout: const Duration(seconds: 30),
 
+
     ),
   );
 
